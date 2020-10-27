@@ -1,0 +1,22 @@
+{
+    "atomType": "Molecule",
+    "name": "Tour d'apprentissage",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 228907,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9838709677419355,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
